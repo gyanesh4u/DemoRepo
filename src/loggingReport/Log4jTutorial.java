@@ -40,7 +40,7 @@ public class Log4jTutorial
 			String title = driver.getTitle();
 			System.out.println(title);
 			l.info("login page title is--->"+title);
-			Assert.assertEquals(title,"#1 Free CRM for Any Business: Online Customer Relationship Software");
+			Assert.assertEquals(title,"Free CRM software in the cloud powers sales and customer service");
 			
 			l.info("****************************** ending test case *****************************************");
 			l.info("****************************** freeCrmTitleTest *****************************************");
