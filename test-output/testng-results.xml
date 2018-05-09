@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27846" started-at="2018-05-09T19:03:51Z" finished-at="2018-05-09T19:04:19Z">
+  <suite name="Default suite" duration-ms="29503" started-at="2018-05-09T20:16:32Z" finished-at="2018-05-09T20:17:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27846" started-at="2018-05-09T19:03:51Z" finished-at="2018-05-09T19:04:19Z">
+    <test name="Default test" duration-ms="29503" started-at="2018-05-09T20:16:32Z" finished-at="2018-05-09T20:17:01Z">
       <class name="loggingReport.Log4jTutorial">
-        <test-method status="PASS" signature="setup()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="setup" is-config="true" duration-ms="14626" started-at="2018-05-10T00:33:51Z" finished-at="2018-05-10T00:34:05Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="setup" is-config="true" duration-ms="16139" started-at="2018-05-10T01:46:32Z" finished-at="2018-05-10T01:46:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="freeCRMTitleTest()[pri:1, instance:loggingReport.Log4jTutorial@548a9f61]" name="freeCRMTitleTest" duration-ms="24" started-at="2018-05-10T00:34:05Z" finished-at="2018-05-10T00:34:05Z">
+        <test-method status="PASS" signature="freeCRMTitleTest()[pri:1, instance:loggingReport.Log4jTutorial@548a9f61]" name="freeCRMTitleTest" duration-ms="23" started-at="2018-05-10T01:46:48Z" description="This is the test for title" finished-at="2018-05-10T01:46:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freeCRMTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="tearDown" is-config="true" duration-ms="669" started-at="2018-05-10T00:34:05Z" finished-at="2018-05-10T00:34:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="tearDown" is-config="true" duration-ms="660" started-at="2018-05-10T01:46:48Z" finished-at="2018-05-10T01:46:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="setup" is-config="true" duration-ms="11755" started-at="2018-05-10T00:34:06Z" finished-at="2018-05-10T00:34:18Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="setup" is-config="true" duration-ms="11927" started-at="2018-05-10T01:46:49Z" finished-at="2018-05-10T01:47:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="freeCRMLogoTest()[pri:2, instance:loggingReport.Log4jTutorial@548a9f61]" name="freeCRMLogoTest" duration-ms="68" started-at="2018-05-10T00:34:18Z" finished-at="2018-05-10T00:34:18Z">
+        <test-method status="PASS" signature="freeCRMLogoTest()[pri:2, instance:loggingReport.Log4jTutorial@548a9f61]" name="freeCRMLogoTest" duration-ms="57" started-at="2018-05-10T01:47:01Z" description="This is test for Logo" finished-at="2018-05-10T01:47:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freeCRMLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="tearDown" is-config="true" duration-ms="683" started-at="2018-05-10T00:34:18Z" finished-at="2018-05-10T00:34:19Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:loggingReport.Log4jTutorial@548a9f61]" name="tearDown" is-config="true" duration-ms="664" started-at="2018-05-10T01:47:01Z" finished-at="2018-05-10T01:47:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

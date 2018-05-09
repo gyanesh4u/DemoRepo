@@ -1,21 +1,21 @@
-2018-05-10 00:33:57,329  INFO [main] Log4jTutorial:24 - launching chrome browser
-2018-05-10 00:34:05,921  INFO [main] Log4jTutorial:30 - entering URL
-2018-05-10 00:34:05,921  WARN [main] Log4jTutorial:31 - this is a warning message
-2018-05-10 00:34:05,921 FATAL [main] Log4jTutorial:32 - this is fatal message
-2018-05-10 00:34:05,922 DEBUG [main] Log4jTutorial:33 - this is debug message
-2018-05-10 00:34:05,932  INFO [main] Log4jTutorial:38 - ****************************** starting test case *****************************************
-2018-05-10 00:34:05,932  INFO [main] Log4jTutorial:39 - ****************************** freeCrmTitleTest *****************************************
-2018-05-10 00:34:05,943  INFO [main] Log4jTutorial:42 - login page title is--->Free CRM software in the cloud powers sales and customer service
-2018-05-10 00:34:05,946  INFO [main] Log4jTutorial:45 - ****************************** ending test case *****************************************
-2018-05-10 00:34:05,947  INFO [main] Log4jTutorial:46 - ****************************** freeCrmTitleTest *****************************************
-2018-05-10 00:34:06,618  INFO [main] Log4jTutorial:66 - ****************************** Browser is closed *****************************************
-2018-05-10 00:34:10,280  INFO [main] Log4jTutorial:24 - launching chrome browser
-2018-05-10 00:34:18,370  INFO [main] Log4jTutorial:30 - entering URL
-2018-05-10 00:34:18,370  WARN [main] Log4jTutorial:31 - this is a warning message
-2018-05-10 00:34:18,371 FATAL [main] Log4jTutorial:32 - this is fatal message
-2018-05-10 00:34:18,371 DEBUG [main] Log4jTutorial:33 - this is debug message
-2018-05-10 00:34:18,375  INFO [main] Log4jTutorial:52 - ****************************** starting test case *****************************************
-2018-05-10 00:34:18,376  INFO [main] Log4jTutorial:53 - ****************************** freemCRMLogoTest *****************************************
-2018-05-10 00:34:18,441  INFO [main] Log4jTutorial:58 - ****************************** ending test case *****************************************
-2018-05-10 00:34:18,441  INFO [main] Log4jTutorial:59 - ****************************** freemCRMLogoTest *****************************************
-2018-05-10 00:34:19,126  INFO [main] Log4jTutorial:66 - ****************************** Browser is closed *****************************************
+2018-05-10 01:46:37,066  INFO [main] Log4jTutorial:24 - launching chrome browser
+2018-05-10 01:46:48,446  INFO [main] Log4jTutorial:30 - entering URL
+2018-05-10 01:46:48,446  WARN [main] Log4jTutorial:31 - this is a warning message
+2018-05-10 01:46:48,446 FATAL [main] Log4jTutorial:32 - this is fatal message
+2018-05-10 01:46:48,446 DEBUG [main] Log4jTutorial:33 - this is debug message
+2018-05-10 01:46:48,457  INFO [main] Log4jTutorial:38 - ****************************** starting test case *****************************************
+2018-05-10 01:46:48,457  INFO [main] Log4jTutorial:39 - ****************************** freeCrmTitleTest *****************************************
+2018-05-10 01:46:48,465  INFO [main] Log4jTutorial:42 - login page title is--->Free CRM software in the cloud powers sales and customer service
+2018-05-10 01:46:48,469  INFO [main] Log4jTutorial:45 - ****************************** ending test case *****************************************
+2018-05-10 01:46:48,469  INFO [main] Log4jTutorial:46 - ****************************** freeCrmTitleTest *****************************************
+2018-05-10 01:46:49,133  INFO [main] Log4jTutorial:66 - ****************************** Browser is closed *****************************************
+2018-05-10 01:46:51,701  INFO [main] Log4jTutorial:24 - launching chrome browser
+2018-05-10 01:47:01,060  INFO [main] Log4jTutorial:30 - entering URL
+2018-05-10 01:47:01,060  WARN [main] Log4jTutorial:31 - this is a warning message
+2018-05-10 01:47:01,060 FATAL [main] Log4jTutorial:32 - this is fatal message
+2018-05-10 01:47:01,060 DEBUG [main] Log4jTutorial:33 - this is debug message
+2018-05-10 01:47:01,066  INFO [main] Log4jTutorial:52 - ****************************** starting test case *****************************************
+2018-05-10 01:47:01,066  INFO [main] Log4jTutorial:53 - ****************************** freemCRMLogoTest *****************************************
+2018-05-10 01:47:01,122  INFO [main] Log4jTutorial:58 - ****************************** ending test case *****************************************
+2018-05-10 01:47:01,122  INFO [main] Log4jTutorial:59 - ****************************** freemCRMLogoTest *****************************************
+2018-05-10 01:47:01,790  INFO [main] Log4jTutorial:66 - ****************************** Browser is closed *****************************************

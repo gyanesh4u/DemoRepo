@@ -32,7 +32,7 @@ public class Log4jTutorial
 		l.fatal("this is fatal message");
 		l.debug("this is debug message");
 		}
-		@Test(priority=1)
+		@Test(priority=1,description="This is the test for title")
 		public void freeCRMTitleTest()
 		{
 			l.info("****************************** starting test case *****************************************");
@@ -46,7 +46,7 @@ public class Log4jTutorial
 			l.info("****************************** freeCrmTitleTest *****************************************");
 		
 	}
-		@Test(priority=2)
+		@Test(priority=2,description="This is test for Logo")
 		public void freeCRMLogoTest()
 		{
 			l.info("****************************** starting test case *****************************************");
