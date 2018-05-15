@@ -1,54 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="26223" started-at="2018-05-14T18:21:09Z" finished-at="2018-05-14T18:21:35Z">
+  <suite name="Suite" duration-ms="14497" started-at="2018-05-15T19:38:29Z" finished-at="2018-05-15T19:38:43Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="15223" started-at="2018-05-14T18:21:09Z" finished-at="2018-05-14T18:21:24Z">
-      <class name="com.qa.crossbrowsertesting.VerifyTitle">
-        <test-method status="PASS" signature="verifyTitle(java.lang.String)[pri:0, instance:com.qa.crossbrowsertesting.VerifyTitle@58651fd0]" name="verifyTitle" duration-ms="15208" started-at="2018-05-14T23:51:09Z" finished-at="2018-05-14T23:51:24Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-          </params>
+    <test name="Test" duration-ms="14497" started-at="2018-05-15T19:38:29Z" finished-at="2018-05-15T19:38:43Z">
+      <class name="testNGlisteners.MyFirstTestCase">
+        <test-method status="PASS" signature="GoogleTitleVerify()[pri:0, instance:testNGlisteners.MyFirstTestCase@9629756]" name="GoogleTitleVerify" duration-ms="14473" started-at="2018-05-16T01:08:29Z" finished-at="2018-05-16T01:08:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyTitle -->
-      </class> <!-- com.qa.crossbrowsertesting.VerifyTitle -->
-    </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="8896" started-at="2018-05-14T18:21:24Z" finished-at="2018-05-14T18:21:33Z">
-      <class name="com.qa.crossbrowsertesting.VerifyTitle">
-        <test-method status="PASS" signature="verifyTitle(java.lang.String)[pri:0, instance:com.qa.crossbrowsertesting.VerifyTitle@475530b9]" name="verifyTitle" duration-ms="8896" started-at="2018-05-14T23:51:24Z" finished-at="2018-05-14T23:51:33Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyTitle -->
-      </class> <!-- com.qa.crossbrowsertesting.VerifyTitle -->
-    </test> <!-- Test2 -->
-    <test name="Test3" duration-ms="2089" started-at="2018-05-14T18:21:33Z" finished-at="2018-05-14T18:21:35Z">
-      <class name="com.qa.crossbrowsertesting.VerifyTitle">
-        <test-method status="PASS" signature="verifyTitle(java.lang.String)[pri:0, instance:com.qa.crossbrowsertesting.VerifyTitle@d8355a8]" name="verifyTitle" duration-ms="2089" started-at="2018-05-14T23:51:33Z" finished-at="2018-05-14T23:51:35Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ie]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyTitle -->
-      </class> <!-- com.qa.crossbrowsertesting.VerifyTitle -->
-    </test> <!-- Test3 -->
+        </test-method> <!-- GoogleTitleVerify -->
+      </class> <!-- testNGlisteners.MyFirstTestCase -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
