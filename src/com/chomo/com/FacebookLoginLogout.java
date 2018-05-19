@@ -19,8 +19,8 @@ public class FacebookLoginLogout {
 		driver.manage().timeouts().pageLoadTimeout(20,TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		driver.get("http://www.facebook.com");
-		driver.findElement(By.id("email")).sendKeys("kamal.gyanesh8@gmail.com");
-		driver.findElement(By.id("pass")).sendKeys("worldcup");
+		driver.findElement(By.id("email")).sendKeys("abcd@gmail.com");
+		driver.findElement(By.id("pass")).sendKeys("123456");
 		driver.findElement(By.xpath("//input[@value='Log In']")).click();
 	//	Alert alert=driver.switchTo().alert();
 		//System.out.println(alert.getText());
