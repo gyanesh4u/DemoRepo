@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="testNGlisteners.MyFirstTestCase">
+      <class name="screenshot.ScrrenshotTest">
         <methods>
-          <include name="GoogleTitleVerify"/>
+          <include name="takeScreenshot"/>
         </methods>
-      </class> <!-- testNGlisteners.MyFirstTestCase -->
+      </class> <!-- screenshot.ScrrenshotTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
